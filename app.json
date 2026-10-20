@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Barbearia Premium",
+    "slug": "barbearia-premium",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.barbeariapremium.app"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
